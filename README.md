@@ -126,8 +126,8 @@ python triangle.py 5
 - Supports any positive integer number of rows
 - Includes both basic generation and formatted printing functions
 
-## Milestone 4 “Trade-offs”
-# Two Sum Problem Solver
+# Milestone 4 “Trade-offs”
+## Two Sum Problem Solver
 
 A Python implementation of the classic Two Sum problem with two different approaches. This program finds two numbers in an array that add up to a target value and returns their indices.
 
