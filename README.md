@@ -1,3 +1,30 @@
+## Milestone Details
+
+### Milestone 1
+- Initial setup and equation handling
+- Basic project structure implementation
+
+### Milestone 2
+- Complete Caesar cipher implementation
+- Encryption and decryption functions
+- Proper handling of case sensitivity and special characters
+
+### Milestone 3
+- Pascal's Triangle generation and display
+- Mathematical algorithm implementation
+- Visualization of triangle patterns
+
+### Milestone 4
+- Trade-offs analysis documentation
+- Comparison of different approaches
+- Performance and complexity analysis
+
+### Milestone 5
+- Ancient, Inc. project implementation
+- Business logic and requirements fulfillment
+- Complete solution integration
+
+
 # Quadratic Equations - Milestone 1
 
 ## Back to School
@@ -66,7 +93,7 @@ decrypt("BCD yza", 1) → "ABC xyz"
 decrypt("Frperg Zrffntr", 13) → "Secret Message"
 ```
 
-# Milestone 3 Pascal's Triangle Generator
+## Milestone 3 Pascal's Triangle Generator
 
 A Python implementation of Pascal's Triangle generation with command-line interface. This program creates and displays Pascal's Triangle with customizable number of rows, formatted for clean visual output.
 
